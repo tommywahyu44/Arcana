@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550406960133",
+    "firebase_url": "https://arcana-4b1ea.firebaseio.com",
+    "project_id": "arcana-4b1ea",
+    "storage_bucket": "arcana-4b1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550406960133:android:07e356c7424cc2f046986c",
+        "android_client_info": {
+          "package_name": "com.example.arcana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550406960133-jbcpt6pbslk8qcmqs3dk8cabemtjreqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7mjH7r3r3_kyNIfZPcXjLvdJ2Amk0HrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550406960133-jbcpt6pbslk8qcmqs3dk8cabemtjreqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
